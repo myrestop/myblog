@@ -30,9 +30,15 @@ If the function need one or more arguments, you should type a whitespace to sepa
 
 However, if you input `start timer` is also work, is this case, `timer` is still the keyword, `start` is also still the argument, why this situation is ok?
 
-Because we support the **`postfixed keyword`**, this feature allow you input the arguments first, input the keyword at last, this will be useful in some cases. For example, if you want to encode some literal by base64, you copied or dragged or typed the text as the argument first, but you forgot to type the keyword `base64` at the front, if we don't have the **`postfixed keyword`** feature, you must move cursor to the front, then type keyword `base64` and a whitespace to separate keyword and argument, fortunately, we have, you can just append the keyword after the text (also need a whitespace to separate), such as `myrest.top base64`.
+Because we support the **`postfixed keyword`**, this feature allow you input the arguments first, input the keyword at last, this will be useful in some cases. For example, if you want to encode some literal by base64, you copied or dragged or typed the text as the argument first, but you forgot to type the keyword `base64` at the front, if we don't have the **`postfixed keyword`** feature, you must move cursor to the front, then type keyword `base64` and a whitespace to separate keyword and argument, fortunately, we have, you just need to append the keyword after the text (also need a whitespace to separate), such as `myrest.top base64` to encode text `myrest.top` by base64.
+
+The most useful of the **`postfixed`** feature is for **`special keyword`**. **When a keyword starts with symbol not letter or digit, we mark it as a special keyword, and when a special keyword work with `postfixed` feature, we no longer need to use a whitespace to separate the keyword and the argument.**
+
+![ai](/local/myblog/images/ai.gif){width=70%}
 
 any keyword
+
+> The keyword `base64` and `/` mentioned above are not builtin functions, you can find keyword [`base64`](https://myrest.top/store/plugin?query=base64) and [`/`](https://myrest.top/store/plugin?query=/) in plugin store.
 
 > Don't worry about these keywords you may think you should remember all of these keywords, we have a keyword suggestion function that can infer what you want to do by prefix matching. So you don't need to remember keywords, our `suggestion` will help you.
 
