@@ -102,6 +102,23 @@ But if you want to synchronization these data across platforms, it will be a lit
 
 ### Plugins
 
+We support extending RunFlow functionalities through plugins, and our requirements for plugins are very loosely. So plugin can do much more complicated things, giving plugin unlimited possibilities.
 
+We have a builtin plugin that bundled with RunFlow, that provide many common functions, learn more about our [builtin plugin](https://myrest.top/store/plugin?id=top.myrest.myflow.builtin).
 
-### Builtin Plugin
+### Developing Plugin
+
+Here, we want to say something to developers. 
+
+To develop a RunFlow plugin is very simple, there is no limitation for programming languages. Certainly, it would be better if you familiar with java and kotlin.
+
+We are welcome developers to develop and submit plugins, please see our [plugin guide](https://myrest.top/guide/myflow/plugin).
+
+### Thanks
+
+Thanks for your patience to read this article, if you feel this tool is very helpful to you, please help us to spread it, we will thank you again.
+
+See our [product page](https://myrest.top/myflow), and you can download RunFlow by this [**link**](https://myrest.top/myflow/download).
+
+Regards,
+The MyRest Team
