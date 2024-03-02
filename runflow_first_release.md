@@ -1,6 +1,6 @@
 # We are happy to announce the first release of RunFlow, the new powerful efficiency tool
 
-**RunFlow** is a cross-platform productivity tool which can launch apps and search files and more, that similar to [Wox](https://github.com/Wox-launcher/Wox) and [PowerToys](https://github.com/microsoft/PowerToys) on Windows, and also similar like [Alfred](https://www.alfredapp.com) and [Raycast](https://www.raycast.com) on macOS. But we have differences with these tools, and we have our own unique new features. Right now, at the below, we will introduce you what features of RunFlow have been implemented in more details. It's an amazing journey, let's start.
+[**RunFlow**](https://myrest.top/myflow) is a cross-platform productivity tool which can launch apps and search files and more, that similar to [Wox](https://github.com/Wox-launcher/Wox) and [PowerToys](https://github.com/microsoft/PowerToys) on Windows, and also similar like [Alfred](https://www.alfredapp.com) and [Raycast](https://www.raycast.com) on macOS. But we have differences with these tools, and we have our own unique new features. Right now, at the below, we will introduce you what features of RunFlow have been implemented in more details. It's an amazing journey, let's start.
 
 ### Cross Platform
 
@@ -14,11 +14,11 @@ RunFlow support multiple languages, but by default, we only have english and sim
 
 ### Customizable Style and Theme
 
-Here we want to introduce you one of our design philosophy is that we allow user to highly customize most thing, so we allow plugin to provide one or more window style and theme, to let you choose what you preferred.
+Here we want to introduce you one of our design philosophy is that we allow user to highly customize most things, so we allow plugin to provide one or more window style and theme, to let you choose what you preferred.
 
 ### Triggered by Keyword
 
-In RunFlow, a function must be provided by a keyword, unless some specials, such as language translator, theme provider and data sync service, etc. So likewise, a new keyword always mean a new function, and most of the plugins you installed also consist by keywords.
+In RunFlow, a function must be provided by keyword, unless some specials, such as language translator, theme provider and data sync service, etc. So likewise, a new keyword always mean a new function, and most of the plugins you installed also consist by keywords.
 
 To use the function of the keyword, the most commonly way is just typing the keyword, if the function don't need any arguments, you can see the result row at the below, then to execute the result you can press `Enter` (ensure the result row is at the front, if not, you should press `Up` or `Down` to active it, or move mouse to hover on it) or double-click the result row.
 
@@ -34,7 +34,7 @@ Because we support the **`postfixed matching`**, this feature allow you input th
 
 The most useful of the **`postfixed`** feature is for **`special keyword`**. **When a keyword starts with symbol not letter or digit, we mark it as a special keyword, and when a special keyword work with `postfixed` feature, we no longer need to use a whitespace to separate the keyword and the argument.**
 
-Right now, let's see an example about the special keyword `/` that is provided by our plugin [Ai Assistant](https://myrest.top/store/plugin?id=top.myrest.myflow.ai), it can chat with AI, such as ChatGPT. This is very useful when you want to ask some questions, then just type the keyword to trigger the function.
+Right now, let's see an example about the special keyword `/` that was provided by our plugin [Ai Assistant](https://myrest.top/store/plugin?id=top.myrest.myflow.ai), it can chat with AI, such as ChatGPT. This is very useful when you want to ask some questions, then just type the keyword to trigger the function.
 
 ![ai](/local/myblog/images/ai.gif)
 
@@ -44,7 +44,7 @@ Right now, let's see an example about the special keyword `/` that is provided b
 
 ### Refreshable Result
 
-Through the above examples, you have seen our UI of the result can be refreshed in real time. Let's see another example about the refreshable result: type keyword `random` to obtain a random string, that returned result is static, but if the result is unsatisfied to you, you can press `Alt` to refresh it to get a new random string or click `refresh` button on the right side.
+Through the above examples, you have seen our UI of the result can be refreshed in real time. Let's see another example about the refreshable result: type keyword `random` to obtain a random string, that returned result is static and immutable, but if the result is unsatisfied to you, you can press `Alt` to refresh it to get a new random string or click `refresh` button on the right side.
 
 ![random](/local/myblog/images/random.gif)
 
@@ -78,7 +78,7 @@ The earlier mentioned examples are interactive with a textfield, but if we have 
 
 ### Separate Window
 
-If you don't like multiple tabs on our action window, or you don't want to switch between multiple tabs. You can right-click the tab name, then you will see a popped button `Run In Separate  Window`, like this.
+If you don't like multiple tabs on our action window, or you don't want to switch between multiple tabs. You can right-click the tab name, then you will see a popped button `Run In Separate  Window`, like this after you executed it.
 
 ![file_in_separate_widow](/local/myblog/images/file_in_separate_window.png)
 
@@ -88,17 +88,17 @@ Hot event is another quickly way to trigger a function of keyword. Currently, we
 
 ### Focused Mode
 
-Focused mode is different from pinned keyword, that can not create a new tab, but the same point is they are both don't be disturbed by other keywords. Another point is, focused mode usually required developer to do some additional jobs.
+Focused mode is different from pinned keyword, that do not create a new tab, but the same point is they are both don't be disturbed by other keywords. Another point is, focused mode usually required developer to do some additional jobs.
 
-Let's see a commandline example in focused mode.
+Let's see a commandline example in focused mode (triggered by keyword `>`).
 
 ![commandline](/local/myblog/images/commandline.gif)
 
 ### Data Security and Synchronization
 
-Your data is encrypted and stored locally, we do not update your data to any cloud. So you do not about the issues about data security.
+Your data is encrypted and stored locally, we do not upload your data to any clouds. So you do not about the issues about data security.
 
-But if you want to synchronization these data across platforms, it will be a little tedious by our default implementation, see [how to synchronize data](https://myrest.top/guide/myflow/user#/?id=sync-data).
+But if you want to synchronize these data across platforms, it will be a little tedious by our default implementation, see [how to synchronize data](https://myrest.top/guide/myflow/user#/?id=sync-data).
 
 ### Plugins
 
@@ -110,15 +110,17 @@ We have a builtin plugin that bundled with RunFlow, that provide many common fun
 
 Here, we want to say something to developers. 
 
-To develop a RunFlow plugin is very simple, there is no limitation for programming languages. Certainly, it would be better if you familiar with java and kotlin.
+To develop a RunFlow plugin is very simple, there is no limitation for programming languages. But because RunFlow is built on Compose Multiplatform which powered by JetBrains, so it would be better if you familiar with Java and Kotlin.
 
-We are welcome developers to develop and submit plugins, please see our [plugin guide](https://myrest.top/guide/myflow/plugin).
+We welcome developers to develop and submit plugins, please see our [plugin guide](https://myrest.top/guide/myflow/plugin).
 
 ### Thanks
 
-Thanks for your patience to read this article, if you feel this tool is very helpful to you, please help us to spread it, we will thank you again.
+Thanks for your patience to read this article, if you feel this tool is helpful to you, please help us to spread it, we need your publicity, thanks again.
 
 See our [product page](https://myrest.top/myflow), and you can download RunFlow by this [**link**](https://myrest.top/myflow/download).
+
+If you have any problems, please feel free to give us a feedback, we would love to receive your feedback.
 
 Regards,
 The MyRest Team
