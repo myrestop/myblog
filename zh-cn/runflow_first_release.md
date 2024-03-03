@@ -108,7 +108,7 @@ RunFlow是支持多语言的，但是在默认情况下，我们仅提供了英�
 
 ### 开发插件
 
-这里，我们相对开发者说。
+这里，我们想对开发者说。
 
 开发一个RunFlow插件是非常简单的，而且并没有编程语言的限制。但由于RunFlow是基于JetBrains提供支持的Compose Multiplatform构建的，所以如果您熟悉Java和Kotlin当然会更好。
 
