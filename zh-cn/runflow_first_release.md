@@ -1,4 +1,4 @@
-# 我们很高兴地宣布，我们发布了RunFlow的第一个版本，这是一款全新且强大的效率工具
+# 非常高兴地宣布，我们发布了RunFlow的第一个版本，这是一款全新且强大的效率工具
 
 [**RunFlow**](https://myrest.top/myflow)是一款跨平台的生产力工具，可以启动应用程序和搜索文件等，类似于Windows平台的[Wox](https://github.com/Wox-launcher/Wox)和[PowerToys](https://github.com/microsoft/PowerToys)，同样也类似于Mac平台的[Alfred](https://www.alfredapp.com)和[Raycast](https://www.raycast.com)。但我们并不与这些工具相同，我们有自己独特的新特性。下面，我们将向您详细的介绍RunFlow实现了哪些特性。这是一次奇妙的旅程，让我们开始吧。
 
