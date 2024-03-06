@@ -1,6 +1,6 @@
 # 非常高兴地宣布，我们发布了RunFlow的第一个版本，这是一款全新且强大的效率工具
 
-[**RunFlow**](https://myrest.top/myflow)是一款跨平台的生产力工具，可以启动应用程序和搜索文件等，类似于Windows平台的[Wox](https://github.com/Wox-launcher/Wox)和[PowerToys](https://github.com/microsoft/PowerToys)，同样也类似于Mac平台的[Alfred](https://www.alfredapp.com)和[Raycast](https://www.raycast.com)。但我们并不与这些工具相同，我们有自己独特的新特性。下面，我们将向您详细的介绍RunFlow实现了哪些特性。这是一次奇妙的旅程，让我们开始吧。
+[**RunFlow**](https://myrest.top/zh-cn/myflow)是一款跨平台的生产力工具，可以启动应用程序和搜索文件等，类似于Windows平台的[Wox](https://github.com/Wox-launcher/Wox)和[PowerToys](https://github.com/microsoft/PowerToys)，同样也类似于Mac平台的[Alfred](https://www.alfredapp.com)和[Raycast](https://www.raycast.com)。但我们并不与这些工具相同，我们有自己独特的新特性。下面，我们将向您详细的介绍RunFlow实现了哪些特性。这是一次奇妙的旅程，让我们开始吧。
 
 ### 跨平台
 
@@ -10,7 +10,7 @@
 
 ### 多语言
 
-RunFlow是支持多语言的，但是在默认情况下，我们仅提供了英语和简体中文两种语言。如果您更偏好其他语言，您可以到我们的[插件商店](https://myrest.top/store/plugin?query=language)去搜索语言翻译器，当您安装插件后，您就可以选择您喜欢的语言了。
+RunFlow是支持多语言的，但是在默认情况下，我们仅提供了英语和简体中文两种语言。如果您更偏好其他语言，您可以到我们的[插件商店](https://myrest.top/zh-cn/store/plugin?query=language)去搜索语言翻译器，当您安装插件后，您就可以选择您喜欢的语言了。
 
 ### 自定义样式与主题
 
@@ -34,11 +34,11 @@ RunFlow是支持多语言的，但是在默认情况下，我们仅提供了英�
 
 **`后置匹配`** 最有用的还是 **`特殊关键字`**。**当一个关键字以字符而非字母或数字开头时，我们将其标记为特殊关键字，当特殊关键字与`后置匹配`在一起工作时，我们就不再需要使用一个空格开来分隔关键字和参数了。**
 
-现在，让我们来看一个关于特殊关键字`/`的示例，该关键字由我们的插件[智能助手](https://myrest.top/store/plugin?id=top.myrest.myflow.ai)提供，它可以与人工智能聊天，比如ChatGPT。当您想问一些问题时，然后只需要输入关键字即可触发该功能，这非常的有用。
+现在，让我们来看一个关于特殊关键字`/`的示例，该关键字由我们的插件[智能助手](https://myrest.top/zh-cn/store/plugin?id=top.myrest.myflow.ai)提供，它可以与人工智能聊天，比如ChatGPT。当您想问一些问题时，然后只需要输入关键字即可触发该功能，这非常的有用。
 
 ![ai](/local/myblog/images/ai.gif)
 
-> 上面提到的关键字`base64`和`/`都不是我们的内置的功能, 您可以在插件商店找到关键字[`base64`](https://myrest.top/store/plugin?query=base64)和[`/`](https://myrest.top/store/plugin?query=/)。
+> 上面提到的关键字`base64`和`/`都不是我们的内置的功能, 您可以在插件商店找到关键字[`base64`](https://myrest.top/zh-cn/store/plugin?query=base64)和[`/`](https://myrest.top/zh-cn/store/plugin?query=/)。
 
 > 您可能认为您需要记住所有这些关键字，不要担心，我们有一个关键字建议的功能，可以通过前缀匹配来推断您想要做什么。所以，您不需要记住这些关键字，我们的`建议`将对您非常有帮助。
 
@@ -98,13 +98,13 @@ RunFlow是支持多语言的，但是在默认情况下，我们仅提供了英�
 
 您的数据是加密存储在本地的，我们并不会将您的数据上传至任何云端。所以，您无需担心任何数据安全问题。
 
-但如果您想多个平台之间同步数据，在我们默认的实现中会显得有点繁琐，详情请查看[如何同步数据](https://myrest.top/guide/myflow/user#/?id=sync-data)。
+但如果您想多个平台之间同步数据，在我们默认的实现中会显得有点繁琐，详情请查看[如何同步数据](https://myrest.top/zh-cn/guide/myflow/user#/?id=sync-data)。
 
 ### 插件
 
 我们支持通过安装插件来扩展RunFlow现有的功能，并且我们的插件的要求是非常宽松的。所以插件可以做许多复杂的任务，以给予插件无限的可能。
 
-我们为RunFlow捆绑了一个内置的插件，它提供了许多常用的功能，您可以在这里了解关于我们[内置插件](https://myrest.top/store/plugin?id=top.myrest.myflow.builtin)的更多信息。
+我们为RunFlow捆绑了一个内置的插件，它提供了许多常用的功能，您可以在这里了解关于我们[内置插件](https://myrest.top/zh-cn/store/plugin?id=top.myrest.myflow.builtin)的更多信息。
 
 ### 开发插件
 
@@ -112,13 +112,13 @@ RunFlow是支持多语言的，但是在默认情况下，我们仅提供了英�
 
 开发一个RunFlow插件是非常简单的，而且并没有编程语言的限制。但由于RunFlow是基于JetBrains提供支持的Compose Multiplatform构建的，所以如果您熟悉Java和Kotlin当然会更好。
 
-我们欢迎开发者来开发并提交插件，请阅读我们的[插件开发指南](https://myrest.top/guide/myflow/plugin)。
+我们欢迎开发者来开发并提交插件，请阅读我们的[插件开发指南](https://myrest.top/zh-cn/guide/myflow/plugin)。
 
 ### 感谢
 
 感谢您耐心读完这篇文章，如果您觉得本工具对您有所帮助，请帮我们多多宣传，我们非常需要您的宣传，再次感谢。
 
-您可以在这里查看我们的[产品页](https://myrest.top/myflow)，您也可以通过此[**链接**](https://myrest.top/myflow/download)下载RunFlow。
+您可以在这里查看我们的[产品页](https://myrest.top/zh-cn/myflow)，您也可以通过此[**链接**](https://myrest.top/zh-cn/myflow/download)下载RunFlow。
 
 如果您有任何问题，请随时向我们反馈，我们非常乐意收到您的反馈。
 
