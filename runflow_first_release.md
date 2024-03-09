@@ -120,7 +120,7 @@ Thanks for your patience to read this article, if you feel this tool is helpful 
 
 See our [product page](https://myrest.top/myflow), and you can download RunFlow by this [**link**](https://myrest.top/myflow/download).
 
-If you have any problems, please feel free to give us a feedback, we would love to receive your feedback.
+If you have any problems, please feel free to give us a feedback, we would love to hear from you.
 
 Regards,
 The MyRest Team
