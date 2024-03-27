@@ -12,7 +12,7 @@ RunFlow是我们开发的一款全新的效率工具，本文作为RunFlow操作
 
 ### 常识
 
-在Windows中您可以按快捷键 `Windows+Space` 来显示或隐藏我们的窗口，在MacOS中您可以按 `Command+Space` 来显示或隐藏。
+在Windows中您可以按快捷键 `Windows+空格` 来显示或隐藏我们的窗口，在MacOS中您可以按 `Command+空格` 来显示或隐藏。
 
 `Enter` 键可以用来快速执行选中的结果。
 
@@ -101,7 +101,13 @@ RunFlow是我们开发的一款全新的效率工具，本文作为RunFlow操作
 
 剪贴板历史记录将记录您复制的文本、文件和图片。
 
-![clipboard](../images/clipboard_zhcn.gif)
+搜索剪贴板（仅搜索文本）
+
+![find_clipboard](../images/find_clipboard_zhcn.gif)
+
+打开剪贴板功能类页（管理文本、文件和图片）
+
+![clipboard](../images/clipboard_func_zhcn.gif)
 
 > 如果您没有安装中文插件，可以通过输入 `clipboard` 跳转到剪贴板页面。
 
