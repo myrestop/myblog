@@ -105,7 +105,7 @@ RunFlow是我们开发的一款全新的效率工具，本文作为RunFlow操作
 
 ![find_clipboard](../images/find_clipboard_zhcn.gif)
 
-打开剪贴板功能类页（管理文本、文件和图片）
+打开剪贴板功能页（管理文本、文件和图片）
 
 ![clipboard](../images/clipboard_func_zhcn.gif)
 

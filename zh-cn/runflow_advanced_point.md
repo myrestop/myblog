@@ -8,6 +8,8 @@
 
 ![find_file](../images/find_file_with_size_filter_zhcn.gif)
 
+> `**` 可以匹配多级目录，比如您想查找文件夹 `folder_a` 里面以 `test` 开头的文件，可以这样输入：`folder_a/**/test`。
+
 ### 计算器
 
 我们内置了两个无理数 `e` 和 `pi`（圆周率π)。 
