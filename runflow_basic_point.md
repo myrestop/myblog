@@ -20,48 +20,42 @@ The `Tab` key can quickly help us complete the input. It can directly let the su
 
 ![tab_intro](images/tab_intro_enus.gif)
 
-### 常规设置
+### General Settings
 
-`设置` 是我们内置的功能，它的关键字是 `settings`，但是由于上面我们安装了中文插件，这里我们就可以通过中文或拼音来匹配跳转了，比如：`设置 通用` 或 `sz ty`。
+Typing `settings general`, then press `Enter` to jump to General Settings page, which can set languages, themes and placeholders, etc.
 
-跳转到通用设置页面后，可以设置语言，主题，占位符等等，这里我们建议开启开机自启。
+![general_settings](images/general_settings_enus.gif)
 
-![general_settings](../images/general_settings_zhcn.gif)
+### Control Your Computer
 
-> 如果您没有安装中文插件，可以通过输入 `settings general` 并回车直接跳转到通用设置页面。
+Typing `settings builtin` jump to Builtin Settings page to see what system commands we support.
 
-### 控制电脑
+![system_commands](images/system_commands_enus.gif)
 
-输入 `sz nz` 跳转到我们内置功能的设置页面看看我们支持了哪些系统命令。
-
-![system_commands](../images/system_commands_zhcn.gif)
-
-| 功能名称             | 关键字            | 中文或拼音匹配示例               |
-|------------------|----------------|-------------------------|
-| 清空电脑回收站          | `emptytrash`   | `清空`, `qingkong`, `hsz` |
-| 锁定电脑             | `lock`         | `锁定`, `suoding`, `sddn` |
-| 重启电脑             | `restart`      | `重启`, `qdn`             |
-| 关闭电脑             | `shutdown`     | `关闭`, `gbdn`            |
-| 休眠电脑             | `sleep`        | `休眠`, `xiumian`         |
-| 屏幕保护程序           | `screensaver`  | `屏幕`, `pingmu`          |
-| 休眠显示器            | `sleepdispaly` | `休眠`,`xsq`              |
-| 登出电脑             | `logout`       | `登出`,`dcdn`             |
-| 任务视图（仅Windows支持） | `taskviewer`   | `任务`, `renwu`           |
-| 退出进程             | `quit`         | `退出`, `tc`              |
+| Function                                       | Keyword        |
+|------------------------------------------------|----------------|
+| Clean The Computer Recycle Bin                 | `emptytrash`   |
+| Lock Computer                                  | `lock`         |
+| Restart Computer                               | `restart`      |
+| Shutdown Computer                              | `shutdown`     |
+| Sleep Computer                                 | `sleep`        |
+| Open System Screen Saver                       | `screensaver`  |
+| Sleep Computer Displays                        | `sleepdispaly` |
+| Logout Computer                                | `logout`       |
+| Open System Task Viewer (only Windows support) | `taskviewer`   |
+| Quit Applications                              | `quit`         |
 
 <br/>
-这里我们以退出进程作为演示：
+Here, we use quiting applications as the demonstration:
 <br/><br/>
 
-![quit_app](../images/quit_app_zhcn.gif)
+![quit_app](images/quit_app_enus.gif)
 
-> 如果您没有安装中文插件，可以通过输入 `settings builtin` 并回车直接跳转到内置功能设置页面。
+### Dragging Input
 
-### 拖拽输入
+Whether it is a file or text, you can input by dragging (ensure the Action Windows is pinned before dragging to avoid hiding it because lost focus, you can pin or unpin it by double-pressing the `Ctrl` key or clicking the pin button in the top right corner).
 
-不管是文件还是文本，您都可以通过拖拽的方式输入（拖拽前需要先固定住我们的窗口，避免失去焦点而隐藏，您可以通过双击 `Ctrl` 键或点击右上角的固定按钮来固定或取消固定窗口）。
-
-![drag_input](../images/drag_input_zhcn.gif)
+![drag_input](images/drag_input_enus.gif)
 
 ### 搜索文件
 
