@@ -85,19 +85,17 @@ We support basic mathematical arithmetic operations and remainder operations, as
 
 > `%` is the remainder operation.
 
-### 剪贴板
+### Clipboards
 
-剪贴板历史记录将记录您复制的文本、文件和图片。
+Clipboards will save you copied text, files and images.
 
-搜索剪贴板（仅搜索文本）
+find clipboard (only text)
 
-![find_clipboard](../images/find_clipboard_zhcn.gif)
+![find_clipboard](images/find_clipboard_enus.gif)
 
-打开剪贴板功能页（管理文本、文件和图片）
+open clipboard func page (manage texts, files and images)
 
-![clipboard](../images/clipboard_func_zhcn.gif)
-
-> 如果您没有安装中文插件，可以通过输入 `clipboard` 跳转到剪贴板页面。
+![clipboard](images/clipboard_func_enus.gif)
 
 ### 二维码
 
