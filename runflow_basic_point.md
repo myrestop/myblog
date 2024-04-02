@@ -4,7 +4,7 @@ RunFlow is a new powerful productivity application developed by us. This article
 
 ### Keyword
 
-`Keyword` is our a main feature, a function usually consists of one or more keywords, and you can customize all of these keywords. If you don't like the default keyword, you can customize it with your preference. Then to trigger the function, we only need to type the associated keyword, which makes everything more efficiently.
+`Keyword` is our a main feature, a function usually consists of one or more keywords, and you can customize all of these keywords. If you don't like the default keyword, you can customize it with your preference. Then to trigger the function, we only need to type the associated keyword, that makes everything more efficiently.
 
 ### Download and Install
 
@@ -97,42 +97,42 @@ open clipboard func page (manage texts, files and images)
 
 ![clipboard](images/clipboard_func_enus.gif)
 
-### 二维码
+### QRCode
 
-![qrcode](../images/qrcode_zhcn.gif)
+![qrcode](images/qrcode_enus.gif)
 
-### 自定义快捷键
+### Customizing Hotkey
 
-我们支持两种类型的快捷键，一种是常规的组合快捷键，比如 `Ctrl+C`，另一种是多次点击某一个按键，比如上面提到切换窗口固定状态的双击 `Ctrl`，我们将其标记为 `Ctrl*2`，当然您也完全可以根据您的喜好修改为 `Alt*2`，甚至 `Ctrl*3` 都是可以的。
+We support two types of shortcut keys, one is the regular combined hotkeys, such as `Windows+Space`. And the another type is to click a certain key multiple times, such as double-pressing `Ctrl` mentioned above to toggle the pinned state of the Action Window, we mark it as `Ctrl*2`, of course you can also change it to `Alt*2` or even `Ctrl*3` or any other hotkeys according to your preference.
 
-打开热点事件设置页面，来自定义快捷键吧。这里我们将默认切换工作窗口显示状态和固定状态的 `Windows+Space` 和 `Ctrl*2` 分别改为 `Ctrl+Space` 和 `Alt*2` 作为演示，在实际使用中，您完全可以修改为其他快捷键，您还可以为其他功能设置快捷键。
+Open the settings page of hot event to customize the hotkeys. Here we change the default `Windows+Space` and `Ctrl*2` to `Ctrl+Space` and `Alt*2` that toggle the Action Window visible state and the pinned state respectively as a demonstration. In actually experience, you can change to any other you liked hotkeys, and also set hotkey for other functions.
 
-![hotkey](../images/hotkey_zhcn.gif)
+![hotkey](images/hotkey_enus.gif)
 
-### 自定义触发角
+### Customizing Hot Corner
 
-触发角是非常好用的一个功能，当您将鼠标移动至屏幕边缘时，就可以触发该功能，这里我们将演示当鼠标移至右上角时打开任务视图，以及将鼠标移至右下角时锁屏。
+The hot corner is a very useful feature, it can be triggered when you move the mouse to the edge of the screen. Here we will demonstrate you open task viewer when the mouse moves to the top right corner and lock screen when the mouse moves to the bottom right corner.
 
-![hot_corner](../images/hot_corner_zhcn.gif)
+![hot_corner](images/hot_corner_enus.gif)
 
-### 固定关键字
+### Pining Keyword
 
-在默认的选项卡 `全部` 中会查找所有的关键字，然后将结果汇总展示出来，但是这会有数量的限制。如果您仅想执行某一个关键字的功能，不想受到其他关键字的干扰，或者需要查看更多的搜索结果，那么您需要固定关键字，比如查找文件。
+In the default tab `All`, all keywords will be queried and the results will be aggregated displayed, but here has a size limitation. If you wish to focus on a specified keyword to avoid be disturbed by others, or want to see more results, you may need to pin the keyword, such as finding files.
 
-![pin_keyword](../images/pin_keyword_zhcn.gif)
+![pin_keyword](images/pin_keyword_enus.gif)
 
-### 计时器
+### Timer
 
-支持正计时和倒计时（您可以通过回车或鼠标双击保存倒计时）
+supports positive timing and negative timing (you can save the negative timing by pressing `Enter` or double-clicking the mouse)
 
-![timer](../images/timer_zhcn.gif)
+![timer](images/timer_enus.gif)
 
-### 文件批量重命名
+### Batch Renaming Files
 
-当您需要对一堆文件按指定格式命名时，这个小工具或许能解决您的烦恼，批量重命名文件支持格式化、替换文本，以及插入和追加文本。
+When you want to rename a series of files in a fixed format, this function maybe able to solve your troubles. Batch renaming files supports formatting, replacing, inserting and appending text.
 
-![file_rename](../images/file_rename_zhcn.gif)
+![file_rename](images/file_rename_enus.gif)
 
-### 结语
+### Thanks
 
-好了，RunFlow手册的基础篇就介绍到这里，希望本工具对您有帮助。如果您还想了解更多，那我们进阶篇见。
+Okay, that's all the RunFlow fundamental manual, hoping this app will be helpful for you. If you wish to know more, let's see you in the advanced chapter.
