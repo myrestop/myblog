@@ -32,18 +32,18 @@ Typing `settings builtin` jump to Builtin Settings page to see what system comma
 
 ![system_commands](images/system_commands_enus.gif)
 
-| Function                                       | Keyword        |
-|------------------------------------------------|----------------|
-| Clean The Computer Recycle Bin                 | `emptytrash`   |
-| Lock Computer                                  | `lock`         |
-| Restart Computer                               | `restart`      |
-| Shutdown Computer                              | `shutdown`     |
-| Sleep Computer                                 | `sleep`        |
-| Open System Screen Saver                       | `screensaver`  |
-| Sleep Computer Displays                        | `sleepdispaly` |
-| Logout Computer                                | `logout`       |
-| Open System Task Viewer (only Windows support) | `taskviewer`   |
-| Quit Applications                              | `quit`         |
+| Keyword        | Function                                       |
+|----------------|------------------------------------------------|
+| `emptytrash`   | clean computer recycle bin                     |
+| `lock`         | lock computer                                  |
+| `restart`      | restart computer                               |
+| `shutdown`     | shutdown computer                              |
+| `sleep`        | sleep computer                                 |
+| `screensaver`  | open system screen saver                       |
+| `sleepdispaly` | sleep computer displays                        |
+| `logout`       | logout computer                                |
+| `taskviewer`   | open system task viewer (only Windows support) |
+| `quit`         | quit applications                              |
 
 <br/>
 Here, we use quiting applications as the demonstration:
@@ -57,33 +57,33 @@ Whether it is a file or text, you can input by dragging (ensure the Action Windo
 
 ![drag_input](images/drag_input_enus.gif)
 
-### 搜索文件
+### Searching Files
 
-查找文件（添加 `file` 参数仅查找文件）
+find files (append `file` parameter to find files only)
 
-![find_file](../images/find_file_zhcn.gif)
+![find_file](images/find_file_enus.gif)
 
-预览文件
+preview files
 
-![preview_file](../images/preview_file_zhcn.gif)
+![preview_file](images/preview_file_enus.gif)
 
-查找文件夹（添加 `dir` 参数仅查找文件夹）
+find folders (append `dir` parameter to find folders only)
 
-![find_folder](../images/find_folder_zhcn.gif)
+![find_folder](images/find_folder_enus.gif)
 
-查找应用程序（添加 `app` 参数仅查找应用程序）
+find applications (append `app` parameter to find applications only)
 
-![find_app](../images/find_app_zhcn.gif)
+![find_app](images/find_app_enus.gif)
 
-> `?` 匹配任意单个字符，`*` 匹配任意一个或多个字符。
+> `?` matches any single character, `*` matches any one or more characters.
 
-### 计算器
+### Calculator
 
-支持数学四则运算和取余运行，以及一元一次方程。
+We support basic mathematical arithmetic operations and remainder operations, as well as linear equations of one variable.
 
-![calculator](../images/calculator_zhcn.gif)
+![calculator](images/calculator_enus.gif)
 
-> `%` 为取余运算。
+> `%` is the remainder operation.
 
 ### 剪贴板
 
