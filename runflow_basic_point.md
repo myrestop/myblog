@@ -137,4 +137,4 @@ When you want to rename a series of files in a fixed format, this function maybe
 
 ### Thanks
 
-Okay, that's all the RunFlow fundamental manual, hoping this app will be helpful for you. If you wish to know more, let's see you in the advanced chapter.
+Okay, that's all the RunFlow fundamental manual, hoping this app will be helpful for you. If you wish to know more, let's see you in the advanced manual.

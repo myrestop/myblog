@@ -1,24 +1,24 @@
-# 效率工具RunFlow完全手册之进阶篇
+# The fully advanced manual of the productivity application RunFlow
 
-欢迎来到RunFlow手册的进阶篇，如果您还不了解RunFlow，建议先阅读我们的[基础篇](runflow_basic_point.md)。
+Welcome to our advanced manual of the RunFlow, if you don't know RunFlow yet, we recommend you read our [fundamental manual](runflow_basic_point.md) first.
 
-### 搜索文件
+### Searching Files
 
-按文件大小过滤，添加 `len` 参数，比如：`len:1kb-2kb`，`len:3mb-5mb` 等等。
+Appending `len` parameter to filter files by size, such as: `len:1kb-2kb`, `len:3mb-5mb` etc.
 
-![find_file](../images/find_file_with_size_filter_zhcn.gif)
+![find_file](images/find_file_with_size_filter_enus.gif)
 
-> `**` 可以匹配多级目录，比如您想查找文件夹 `folder_a` 里面以 `test` 开头的文件，可以这样输入：`folder_a/**/test`。
+> `**` can match multi-level directories. For an instance, finding files which start with `test` in the folder `folder_a`, we can input like this: `folder_a/**/test`.
 
-### 计算器
+### Calculator
 
-我们内置了两个无理数 `e` 和 `pi`（圆周率π)。 
+We have two preset irrational numbers `e` and `pi`.
 
-![pi_and_e](../images/pi_and_e_zhcn.gif)
+![pi_and_e](images/pi_and_e_enus.gif)
 
-计算超大数，如果您想计算 `9999999999999999999*9999999999999999999`，直接这样输入是没有结果的，我们需要在数字后面添加一个 `d` 参数，像这样：`9999999999999999999d*9999999999999999999d`。
+Calculating big numbers, if you want to calculate `9999999999999999999*9999999999999999999`, there is no result if you input it directly like this. We should append a `d` parameter after the number, like this: `9999999999999999999d*9999999999999999999d`.
 
-![calc_big_number](../images/calc_big_number_zhcn.gif)
+![calc_big_number](images/calc_big_number_enus.gif)
 
 ### 解散文件夹
 
@@ -27,7 +27,7 @@
 ```text
 文件夹
 ├─文本文件_01.txt
-├─文本文件_02.txt
+├─文本文件_02.txt     
 ├─文件夹01
 │ ├─文本文件_03.txt
 │ └─文本文件_04.txt
