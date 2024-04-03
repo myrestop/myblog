@@ -1,4 +1,4 @@
-# We are happy to announce the first release of RunFlow, the new powerful efficiency tool
+# We are happy to announce the first release of RunFlow, the new powerful productivity app
 
 [**RunFlow**](https://myrest.top/myflow) is a cross-platform productivity tool which can launch apps and search files and more, that similar to [Wox](https://github.com/Wox-launcher/Wox) and [PowerToys](https://github.com/microsoft/PowerToys) on Windows, and also similar like [Alfred](https://www.alfredapp.com) and [Raycast](https://www.raycast.com) on macOS. But we have differences with these tools, and we have our own unique new features. Right now, at the below, we will introduce you what features of RunFlow have been implemented in more details. It's an amazing journey, let's start.
 

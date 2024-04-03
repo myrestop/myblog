@@ -20,73 +20,73 @@ Calculating big numbers, if you want to calculate `9999999999999999999*999999999
 
 ![calc_big_number](images/calc_big_number_enus.gif)
 
-### 解散文件夹
+### Unwrap Folder
 
-假设我们有下方示例的一个文件夹，现在我们需要删除文件夹，把所有文件提到同一级，我们就可以使用 `folderunwrap`。
-
-```text
-文件夹
-├─文本文件_01.txt
-├─文本文件_02.txt     
-├─文件夹01
-│ ├─文本文件_03.txt
-│ └─文本文件_04.txt
-└─文件夹02
-  └─文件夹03
-    ├─文本文件_05.txt
-    └─文本文件_06.txt
-```
-
-解散文件夹后都在同一个目录级别：
+Suppose we have a folder in the below example, and now we need to delete the folder and bring all the files to the same directory, the `folderunwrap` will be helpful.
 
 ```text
-文本文件_01.txt
-文本文件_02.txt
-文本文件_03.txt
-文本文件_04.txt
-文本文件_05.txt
-文本文件_06.txt
+folder
+├─text_01.txt
+├─text_02.txt     
+├─folder01
+│ ├─text_03.txt
+│ └─text_04.txt
+└─folder02
+  └─folder03
+    ├─text_05.txt
+    └─text_06.txt
 ```
 
-![unwrap_folder](../images/unwrap_folder_zhcn.gif)
+After unwrap the folder, all the files at the same directory level:
 
-### 独立窗口运行
+```text
+text_01.txt
+text_02.txt
+text_03.txt
+text_04.txt
+text_05.txt
+text_06.txt
+```
 
-![separate_window](../images/separate_window_zhcn.gif)
+![unwrap_folder](images/unwrap_folder_enus.gif)
 
-### 导入导出数据
+### Running in Separate Window
 
-我们支持导出JSON格式的数据，同样导入数据也需要是JSON格式的。
+![separate_window](images/separate_window_enus.gif)
 
-### 数据同步
+### Importing and Exporting Data
 
-##### 本地同步服务
+We support exporting data as JSON format, and importing data also needs to be the JSON format.
 
-基于本地的同步服务是我们内置的功能，它依赖于第三方的云盘服务，比如OneDrive、iCloud、Google Drive、小米云盘、百度云盘、阿里云盘等等。
+### Data Synchronization
 
-这里我以我常用的OneDrive作为示例，其他云盘的同步方法也都一样，我们可以先在OneDrive中新建一个 `MyFlow` 的文件夹用来存储需要同步的数据，然后打开RunFlow数据同步的设置页面，开启基于本地的数据同步服务，并设置数据所在文件夹即可。
+##### Local Synchronized Service
 
-![data_sync](../images/data_sync_zhcn.gif)
+The local-based synchronized service is our builtin function, which relies on third-party cloud service, such as Onedrive, iCloud, Google Drive and Dropbox, etc.
 
-> 偷偷告诉你，开启数据同步服务可以同步剪贴板。
+Here I use my usually used OneDrive as an example, the other cloud synchronization is the same. We can first create a new folder `MyFlow` in OneDrive to store the data that needs to be synchronized, and then open the settings page of data synchronization, turn on the `Data Sync Service Based On Local`, and set the folder where the data is located. 
 
-### 定时任务
+![data_sync](images/data_sync_enus.gif)
 
-在热点事件的设置页面中，我们可以通过Cron表达式来设置定时任务，比如定时清理电脑垃圾回收站、定期重建文件索引等等。
+> Telling you a secret, turning on the data synchronization service will enable you to synchronize your clipboard.
 
-![cron](../images/cron_zhcn.gif)
+### Scheduled Tasks
 
-这里简单解释一下上面的Cron表达式：
+In the settings page of hot events, we can use Cron expressions to set scheduled tasks, such as regularly cleaning the computer recycle bin, and recreating file indexes, etc.
 
-| 秒 | 分 | 时  | 天 | 月份 | 星期 | 解析          |
-|---|---|----|---|----|----|-------------|
-| 0 | 0 | 12 | * | *  | *  | 每天中午的12点执行  |
-| 0 | 0 | 12 | * | *  | 1  | 每周一的中午12点执行 |
+![cron](images/cron_enus.gif)
+
+Here is a brief explanation of the cron expression:
+
+| second(0-59) | minute(0-59) | hour(0-23) | day-of-month(1-31) | month(1-12) | week(0-7, both 0 and 7 are sunday) | explanation                    |
+|--------------|--------------|------------|--------------------|-------------|------------------------------------|--------------------------------|
+| 0            | 0            | 12         | *                  | *           | *                                  | executing at 12:00 every day   |
+| 0            | 0            | 12         | *                  | *           | 1                                  | executing at 12:00 every month |
 
 <br/>
 
-> 了解等多Cron表达式，可以[点击这里](https://baike.baidu.com/item/cron)。
+> [Learn more information about cron](https://en.wikipedia.org/wiki/Cron).
 
-### 结语
+### Thanks
 
-本工具内置常见的进阶功能就介绍到这里了，如果您还想了解更多功能，可以到我们的[插件商店](https://myrest.top/store/plugin)看看，如果您是一名开发者，欢迎阅读我们的开发者篇手册，也欢迎您来提交插件。
+Here is all about the commonly advanced builtin functions of RunFlow, if you need more functions, you can visit our [plugin store](https://myrest.top/store/plugin). If you are a developer, welcome to read our developer manual and submit plugins.
