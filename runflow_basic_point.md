@@ -16,6 +16,8 @@ In Windows, you can press the hotkey `Windows+Space` to show or hide our Action 
 
 The `Enter` key can be used to quickly execute the selected result.
 
+The `Alt` key can popup the context menu or refreshes the result.
+
 The `Tab` key can quickly help us complete the input. It can directly let the suggested text or title which provided by the result as the input content, like the under example: jump to the plugin store.
 
 ![tab_intro](images/tab_intro_enus.gif)
