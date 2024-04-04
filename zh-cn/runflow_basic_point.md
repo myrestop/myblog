@@ -2,6 +2,10 @@
 
 RunFlow是我们开发的一款全新的效率工具，本文作为RunFlow操作手册和功能演示的基础篇，[想了解我们有哪些新特性可以阅读我们的这篇文章](runflow_first_release.md)，这里就不过多赘述了，我们直接开始。
 
+### 观看视频
+
+<iframe src="//player.bilibili.com/player.html?aid=1902402996&bvid=BV1vm41167n6&cid=1488264551&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ### 关键字
 
 关键字是我们的一个核心概念，一个功能通常由一个或多个关键字构成，并且所有的这些关键字您都可以自定义，如果您不喜欢默认的关键字您完全可以自定义它，然后我们只需要输入对应的关键字就可以触发该功能，这让一切变得更高效。
