@@ -28,4 +28,32 @@
 
 ![calc_timestamp](../images/calc_timestamp.gif)
 
+偏移计算（`<` 向前偏移，`>` 向后偏移，示例：偏移到本周末 `now>w`，偏移到本月初 `now<m`，偏移到某天末 `2024-05-01>d`）
+
+![calc_date_offset](../images/calc_date_offset.gif)
+
+日期加减计算（示例：`100y+500h+999ms`、`2024-05-01+999min-3w`）
+
+![calc_date](../images/calc_date.gif)
+
+计算相差天数（示例：`2024-07-01-2024-01-01`、`20241231-20231231`）
+
+![calc_day_between](../images/calc_day_between.gif)
+
+> 输入时间支持格式：`yyyymmdd`、`yyyy-mm-dd`、`yyyyMMddHHmmss`、`yyyyMMdd HHmmss`、`yyyyMMddHHmmssSSS`、`yyyyMMdd HHmmssSSS`、`yyyy-MM-dd HH:mm:ss`、`yyyy-MM-dd HH:mm:ss.SSS`。
+
 ### 随机生成器
+
+示例：`random upper 16` 随机16位数字和大写字母混合，`random lower 16` 随机16位数字和小写字母混合，`random abc 16` 随机16位大小写字母混合，`random int 100,999` 随机一个100到999的数字，`random color` 随机颜色。
+
+![random_generator](../images/random_generator.gif)
+
+### 开发者工具集
+
+我们还提供一款开发者工具集插件，主要功能包括：代码命名风格转换、颜色解析、CRON表达式解析、Base32和Base64的编码和解码、Sha256和MD5加密、UUID生成以及大小写转换等等，[插件文档](https://myrest.top/zh-cn/store/plugin?id=top.myrest.myflow.developer)。
+
+![plugin_developer_tools](../images/plugin_developer_tools.gif)
+
+### 结语
+
+本篇介绍了开发者常用的一些功能，如果您希望能开发插件，欢迎阅读我们的[插件开发指南](https://myrest.top/zh-cn/guide/myflow/plugin)。如果您是Java开发者，我们还准备了一篇Java开发者篇手册，欢迎阅读。
