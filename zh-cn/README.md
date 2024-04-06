@@ -8,6 +8,8 @@
 
 - [效率工具RunFlow完全手册之开发者篇](runflow_developer_point.md)
 
+- [效率工具RunFlow完全手册之Java开发者篇](runflow_java_developer_point.md)
+
 # 欢迎关注我们微信公众号
 
 ![公众号](../images/myrest_wechat_official.jpg)

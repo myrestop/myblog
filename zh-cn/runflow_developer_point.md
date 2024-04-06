@@ -56,4 +56,4 @@
 
 ### 结语
 
-本篇介绍了开发者常用的一些功能，如果您希望能开发插件，欢迎阅读我们的[插件开发指南](https://myrest.top/zh-cn/guide/myflow/plugin)。如果您是Java开发者，我们还准备了一篇Java开发者篇手册，欢迎阅读。
+本篇介绍了开发者常用的一些功能，如果您希望能开发插件，欢迎阅读我们的[插件开发指南](https://myrest.top/zh-cn/guide/myflow/plugin)。如果您是Java开发者，我们还准备了一篇[Java开发者篇手册](runflow_java_developer_point.md)，欢迎阅读。
