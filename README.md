@@ -6,6 +6,10 @@
 
 - [The fully advanced manual of the productivity application RunFlow](runflow_advanced_point.md)
 
+- [The full developer manual of the productivity application RunFlow](runflow_developer_point.md)
+
+- [The full Java developer manual of the productivity application RunFlow](runflow_java_developer_point.md)
+
 # Welcome to join our subreddit
 
 [https://www.reddit.com/r/RunFlow](https://www.reddit.com/r/RunFlow)
