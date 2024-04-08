@@ -24,11 +24,11 @@
 
 ![calc_date_now](../images/calc_date_now.gif)
 
-时间戳转时间（年、月、日、星期、小时、分钟、秒、毫秒分别用 `y`、`m`、`w`、`h`、`min`、`s`、`ms`）
+时间戳转时间（年、月、日、星期、小时、分钟、秒、毫秒分别用 `y`、`m`、`d`、`w`、`h`、`min`、`s`、`ms`）
 
 ![calc_timestamp](../images/calc_timestamp.gif)
 
-偏移计算（`<` 向前偏移，`>` 向后偏移，示例：偏移到本周末 `now>w`，偏移到本月初 `now<m`，偏移到某天末 `2024-05-01>d`）
+偏移计算（`<` 向过去偏移，`>` 向将来偏移，示例：偏移到本周末 `now>w`，偏移到本月初 `now<m`，偏移到某天末 `2024-05-01>d`）
 
 ![calc_date_offset](../images/calc_date_offset.gif)
 
@@ -36,7 +36,7 @@
 
 ![calc_date](../images/calc_date.gif)
 
-计算相差天数（示例：`2024-07-01-2024-01-01`、`20241231-20231231`）
+计算相差天数（两端的时间格式需保持一致，示例：`2024-07-01-2024-01-01`、`20241231-20231231`）
 
 ![calc_day_between](../images/calc_day_between.gif)
 
@@ -44,7 +44,7 @@
 
 ### 随机生成器
 
-示例：`random upper 16` 随机16位数字和大写字母混合，`random lower 16` 随机16位数字和小写字母混合，`random abc 16` 随机16位大小写字母混合，`random int 100,999` 随机一个100到999的数字，`random color` 随机颜色。
+示例：`random upper 16` 数字和大写字母随机混合的16位字符串，`random lower 16` 数字和小写字母随机混合的16位字符串，`random abc 16` 大小写字母随机混合的16位字符串，`random int 100,999` 随机一个100到999的数字，`random color` 随机颜色。
 
 ![random_generator](../images/random_generator.gif)
 

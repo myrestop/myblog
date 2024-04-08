@@ -89,4 +89,4 @@ Here is a brief explanation of the cron expression:
 
 ### Thanks
 
-Here is all about the commonly advanced builtin functions of RunFlow, if you need more functions, you can visit our [plugin store](https://myrest.top/store/plugin). If you are a developer, welcome to read our developer manual and submit plugins.
+Here is all about the commonly advanced builtin functions of RunFlow, if you need more functions, you can visit our [plugin store](https://myrest.top/store/plugin). If you are a developer, welcome to read our [developer manual](runflow_developer_point.md) and submit plugins.
