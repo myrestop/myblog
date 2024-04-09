@@ -20,28 +20,24 @@ Configure `API Key`
 
 > If you cannot access the OpenAI service or applied a third-party API Key, you can set the `API Host` (proxy server).
 
-### 快速对话
+### Single Conversation
 
-输入想咨询智能助手的问题，然后输入关键字 `/` 即可：
+Input the question you want to ask the AI assistant, and then type the keyword `/`:
 
-![once_chat_1](../images/ai_once_chat_zhcn_1.gif)
+![once_chat_2](images/ai_once_chat_enus.gif)
 
-> 讯飞星火大模型
+### Continuous Conversation
 
-![once_chat_2](../images/ai_once_chat_zhcn_2.gif)
+Type the keyword `/` to enter the focused mode of AI assistant, to start a continuous conversation.
 
-> OpenAI ChatGPT
+![continue_chat](images/ai_continue_chat_enus.gif)
 
-### 连续对话
+> In this case, we will save your consultation records locally so that you can quickly input it next time.
 
-输入关键字 `/` 进入智能助手专注模式，即可开启连续对话。
+### Conversation Management
 
-![continue_chat](../images/ai_continue_chat_zhcn.gif)
+Type the keyword `/` to enter the focused mode of AI assistant to manage conversations. On the left side of the Action Window, you can search for historical conversations, view historical conversations (you can also continue the conversation based on historical conversation), remove historical conversations, and click the plus button to start a new conversation.
 
-### 会话管理
+### Thanks
 
-输入关键字 `/` 进入智能助手专注模式，即可对会话进行管理，在工作窗口左侧可以搜索历史会话，查看历史对话（也可在历史对话基础继续会话），删除历史会话，点击加号按钮开启新会话。
-
-### 结语
-
-本文向您展示了如何使用我们提供的智能助手插件，更多插件欢迎来[插件商店](https://myrest.top/zh-cn/store/plugin)看看。
+This article shows you how to use the AI assistant plugin we provided, for more plugins please visit our [plugin store](https://myrest.top/store/plugin).
