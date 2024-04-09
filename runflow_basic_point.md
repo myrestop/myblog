@@ -6,7 +6,7 @@ RunFlow is a new powerful productivity application developed by us. This article
 
 `Keyword` is our a main feature, a function usually consists of one or more keywords, and you can customize all of these keywords. If you don't like the default keyword, you can customize it with your preference. Then to trigger the function, we only need to type the associated keyword, that makes everything more efficiently.
 
-### Download and Install
+### Downloading and Installation
 
 This is the prerequisite for experiencing RunFlow, there is not much to introduce, [**please click here to download and install**](https://myrest.top/myflow/download).
 
@@ -28,7 +28,7 @@ Typing `settings general`, then press `Enter` to jump to General Settings page, 
 
 ![general_settings](images/general_settings_enus.gif)
 
-### Control Your Computer
+### Controlling Your Computer
 
 Typing `settings builtin` jump to Builtin Settings page to see what system commands we support.
 

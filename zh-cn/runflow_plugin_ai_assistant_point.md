@@ -22,7 +22,7 @@
 
 ### 使用OpenAI作为智能助手（可选）
 
-申请API Key：[点这里去OpenAI官网申请API Key](https://platform.openai.com/account/api-keys)，我们也支持第三方代理的API Key。
+申请API Key：[点这里去OpenAI官网申请API Key](https://platform.openai.com/account/api-keys)，我们也支持第三方代理的API Key（因为部分国家或地区无法使用OpenAI服务）。
 
 打开智能助手设置：
 
@@ -32,7 +32,7 @@
 
 ![openai_2](../images/ai_settings_openai_zhcn.png)
 
-> 如果您无法科学上网或者是申请的第三方API Key，那么您可以设置代理服务器。
+> 如果您无法访问OpenAI服务或者是申请的第三方API Key，那么您可以设置代理服务器。
 
 ### 快速对话
 
