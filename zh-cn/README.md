@@ -10,6 +10,8 @@
 
 - [效率工具RunFlow完全手册之Java开发者篇](runflow_java_developer_point.md)
 
+- [效率工具RunFlow插件手册之智能助手篇](runflow_plugin_ai_assistant_point.md)
+
 # 欢迎关注我们微信公众号
 
 ![公众号](../images/myrest_wechat_official.jpg)
