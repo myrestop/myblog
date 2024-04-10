@@ -83,8 +83,6 @@ Here is a brief explanation of the cron expression:
 | 0            | 0            | 12         | *                  | *           | *                                  | executing at 12:00 every day   |
 | 0            | 0            | 12         | *                  | *           | 1                                  | executing at 12:00 every month |
 
-<br/>
-
 > [Learn more information about cron](https://en.wikipedia.org/wiki/Cron).
 
 ### Thanks

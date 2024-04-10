@@ -57,9 +57,7 @@ RunFlow是我们开发的一款全新的效率工具，本文作为RunFlow操作
 | 任务视图（仅Windows支持） | `taskviewer`   | `任务`, `renwu`           |
 | 退出应用程序           | `quit`         | `退出`, `tc`              |
 
-<br/>
 这里我们以退出应用程序作为演示：
-<br/><br/>
 
 ![quit_app](../images/quit_app_zhcn.gif)
 

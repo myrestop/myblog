@@ -47,9 +47,7 @@ Typing `settings builtin` jump to Builtin Settings page to see what system comma
 | `taskviewer`   | open system task viewer (only Windows support) |
 | `quit`         | quit applications                              |
 
-<br/>
 Here, we use quiting applications as the demonstration:
-<br/><br/>
 
 ![quit_app](images/quit_app_enus.gif)
 
