@@ -12,6 +12,8 @@
 
 - [The manual of plugin AI assistant for productivity application RunFlow](runflow_plugin_ai_assistant_point.md)
 
+- [FAQ of the productivity application RunFlow](runflow_faq.md)
+
 # Welcome to join our subreddit
 
 [https://www.reddit.com/r/RunFlow](https://www.reddit.com/r/RunFlow)
