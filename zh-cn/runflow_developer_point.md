@@ -44,7 +44,7 @@
 
 ### 随机生成器
 
-示例：`random upper 16` 数字和大写字母随机混合的16位字符串，`random lower 16` 数字和小写字母随机混合的16位字符串，`random abc 16` 大小写字母随机混合的16位字符串，`random int 100,999` 随机一个100到999的数字，`random color` 随机颜色。
+示例：`random abc 16` 随机16位大小写字母，`random abc upper 16` 随机16位大写字母，`random abc lower 16` 随机16位小写字母，`random int 100,999` 随机一个100到999的数字，`random color` 随机颜色。
 
 ![random_generator](../images/random_generator.gif)
 

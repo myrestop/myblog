@@ -44,7 +44,7 @@ calculate the difference in days between two date (the datetime format at both e
 
 ### Random Generator
 
-Examples: `random upper 16` a random string of length 16 with numbers and uppercase letters mixed, `random lower 16` a random string of length 16 with numbers and lowercase letters mixed, `random abc 16` a random string of length 16 with lowercase and uppercase letters mixed, `random int 100,999` a random number from 100 to 999, `random color` a random color.
+Examples: `random abc 16` random 16 lowercase and uppercase letters, `random abc upper 16` random 16 uppercase letters, `random abc lower 16` random 16 lowercase letters, `random int 100,999` a random number from 100 to 999, `random color` a random color.
 
 ![random_generator](images/random_generator.gif)
 
