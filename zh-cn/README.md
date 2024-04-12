@@ -1,5 +1,7 @@
 # MyRest官方博客
 
+- [效率工具RunFlow的更新日志](runflow_changelog.md)
+
 - [非常高兴地宣布，我们发布了RunFlow的第一个版本，这是一款全新且强大的效率工具](runflow_first_release.md)
 
 - [效率工具RunFlow完全手册之基础篇](runflow_basic_point.md)

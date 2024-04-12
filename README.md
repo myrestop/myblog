@@ -1,5 +1,7 @@
 # MyRest Blog
 
+- [The changelog of the productivity application RunFlow](runflow_changelog.md)
+
 - [We are happy to announce the first release of RunFlow, the new powerful productivity app](runflow_first_release.md)
 
 - [The fully fundamental manual of the productivity application RunFlow](runflow_basic_point.md)
