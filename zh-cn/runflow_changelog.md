@@ -2,6 +2,11 @@
 
 我们将在这里记录RunFlow的更新情况，[下载RunFlow](https://myrest.top/zh-cn/myflow/download)。
 
+### v1.2.0
+
+- 支持默认不启用关键字
+- 支持局域网内传输文件和剪贴板
+
 ### v1.1.2
 
 - 支持随机密码

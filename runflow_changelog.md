@@ -2,6 +2,11 @@
 
 We will record the updates of RunFlow here, [downloading RunFlow](https://myrest.top/myflow/download).
 
+### v1.2.0
+
+- supports disabling keyword by default
+- supports transferring files and clipboard within LAN
+
 ### v1.1.2
 
 - supports random password
