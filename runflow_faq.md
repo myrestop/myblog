@@ -1,4 +1,4 @@
-# FAQ of the productivity application RunFlow
+# The FAQ of productivity application RunFlow
 
 We will answer your frequently asked questions there.
 

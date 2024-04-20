@@ -1,4 +1,4 @@
-# The fully advanced manual of the productivity application RunFlow
+# The fully advanced manual of productivity application RunFlow
 
 Welcome to our advanced manual of the RunFlow, if you don't know RunFlow yet, we recommend you read our [fundamental manual](runflow_basic_point.md) first.
 

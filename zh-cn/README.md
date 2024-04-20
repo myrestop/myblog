@@ -16,6 +16,8 @@
 
 - [效率工具RunFlow常见问题解疑](runflow_faq.md)
 
+- [效率工具RunFlow完全手册之局域网传输篇](runflow_lan_point.md)
+
 # 欢迎关注我们微信公众号
 
 ![公众号](../images/myrest_wechat_official.jpg)

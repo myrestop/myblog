@@ -1,4 +1,4 @@
-# The full developer manual of the productivity application RunFlow
+# The full developer manual of productivity application RunFlow
 
 Earlier we introduced the [basic](runflow_basic_point.md) and [advanced](runflow_advanced_point.md) functions of RunFlow, this article is a developer manual specially prepared for developers. Let's take a look at the practical functions.
 

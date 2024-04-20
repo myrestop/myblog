@@ -1,4 +1,4 @@
-# The changelog of the productivity application RunFlow
+# The changelog of productivity application RunFlow
 
 We will record the updates of RunFlow here, [downloading RunFlow](https://myrest.top/myflow/download).
 

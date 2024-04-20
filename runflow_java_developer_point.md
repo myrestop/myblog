@@ -1,4 +1,4 @@
-# The full Java developer manual of the productivity application RunFlow
+# The full Java developer manual of productivity application RunFlow
 
 This manual is writing for Java developers, if you are not a Java developer, you can read our [developer manual](runflow_developer_point.md). Of course, you can continue reading if you are interested.
 

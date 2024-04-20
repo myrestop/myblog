@@ -1,4 +1,4 @@
-# The manual of the plugin AI assistant for productivity application RunFlow
+# The manual of plugin AI assistant for productivity application RunFlow
 
 This article will introduce you the detailed usage about the plugin AI assistant of RunFlow. If you didn't know RunFlow yet, we recommend you read our [basic](runflow_basic_point.md) and [advanced](runflow_advanced_point.md) manuals first.
 

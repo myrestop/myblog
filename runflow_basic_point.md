@@ -1,4 +1,4 @@
-# The fully fundamental manual of the productivity application RunFlow
+# The fully fundamental manual of productivity application RunFlow
 
 RunFlow is a new powerful productivity application developed by us. This article is the basic manual of the RunFlow's skills, and also for the function demonstrations. [If you want to know what new features we have, you can read this article](runflow_first_release.md), here is no details about this. Let's get started.
 
