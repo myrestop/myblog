@@ -2,6 +2,11 @@
 
 我们将在这里记录RunFlow的更新情况，[下载RunFlow](https://myrest.top/zh-cn/myflow/download)。
 
+### v1.2.1
+
+- 支持打开APP更新日志
+- 修复启动HTTP服务由于端口占用导致程序异常问题
+
 ### v1.2.0
 
 - 支持默认不启用关键字

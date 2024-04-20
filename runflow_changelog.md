@@ -2,6 +2,11 @@
 
 We will record the updates of RunFlow here, [downloading RunFlow](https://myrest.top/myflow/download).
 
+### v1.2.1
+
+- supports opening app changelog
+- fixed the issue of app exception caused by port occupation when starting HTTP service
+
 ### v1.2.0
 
 - supports disabling keyword by default
