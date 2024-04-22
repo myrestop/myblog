@@ -38,13 +38,15 @@
 
 输入想咨询智能助手的问题，然后输入关键字 `/` 即可：
 
+> 讯飞星火大模型
+
 ![once_chat_1](../images/ai_once_chat_zhcn_1.gif)
 
-> 讯飞星火大模型
+> OpenAI ChatGPT
 
 ![once_chat_2](../images/ai_once_chat_zhcn_2.gif)
 
-> OpenAI ChatGPT
+> v1.0.5已支持通过常规选中并回车执行的方式进行快速对话。
 
 ### 连续对话
 

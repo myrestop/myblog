@@ -26,6 +26,8 @@ Input the question you want to ask the AI assistant, and then type the keyword `
 
 ![once_chat_2](images/ai_once_chat_enus.gif)
 
+> v1.0.5 already supports single conversation by the general way selecting and pressing Enter.
+
 ### Continuous Conversation
 
 Type the keyword `/` to enter the focused mode of AI assistant, to start a continuous conversation.
