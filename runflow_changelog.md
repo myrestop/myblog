@@ -2,6 +2,11 @@
 
 We will record the updates of RunFlow here, [downloading RunFlow](https://myrest.top/myflow/download).
 
+### v1.2.2
+
+- optimized LAN transmission tools
+- only text content is supported when synchronizing clipboard data
+
 ### v1.2.1
 
 - supports opening app changelog

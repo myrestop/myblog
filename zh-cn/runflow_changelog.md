@@ -2,6 +2,11 @@
 
 我们将在这里记录RunFlow的更新情况，[下载RunFlow](https://myrest.top/zh-cn/myflow/download)。
 
+### v1.2.2
+
+- 优化局域网传输工具
+- 同步剪贴板数据时仅支持同步文本内容
+
 ### v1.2.1
 
 - 支持打开APP更新日志
