@@ -2,6 +2,10 @@
 
 We will record the updates of RunFlow here, [downloading RunFlow](https://myrest.top/myflow/download).
 
+### v1.2.3
+
+- fixed some known issues
+
 ### v1.2.2
 
 - optimized LAN transmission tools
