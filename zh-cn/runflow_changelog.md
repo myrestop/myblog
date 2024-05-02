@@ -2,6 +2,12 @@
 
 我们将在这里记录RunFlow的更新情况，[下载RunFlow](https://myrest.top/zh-cn/myflow/download)。
 
+### v1.3.0
+
+- 支持固定结果
+- 优化可刷新结果
+- 修复了一些已知问题
+
 ### v1.2.3
 
 - 修复了一些已知问题
