@@ -2,7 +2,7 @@
 
 In this article, we will show you some functions which are easily overlooked but very practical of RunFlow.
 
-> Don't Know about RunFlow yet? [Start learning here](runflow_basic_point.md).
+> Don't know about RunFlow yet? [Start learning here](runflow_basic_point.md).
 
 ### Pin Action Window
 
