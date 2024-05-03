@@ -18,6 +18,8 @@
 
 - [The LAN transmission manual of productivity application RunFlow](runflow_lan_point.md)
 
+- [Take stock of the easily overlooked functions of productivity application RunFlow](runflow_overlooked_point.md)
+
 # Welcome to join our subreddit
 
 [https://www.reddit.com/r/RunFlow](https://www.reddit.com/r/RunFlow)

@@ -108,7 +108,7 @@ We have a builtin plugin that bundled with RunFlow, that provide many common fun
 
 ### Developing Plugin
 
-Here, we want to say something to developers. 
+Here, we want to say something to developers.
 
 To develop a RunFlow plugin is very simple, there is no limitation for programming languages. But because RunFlow is built on Compose Multiplatform which powered by JetBrains, so it would be better if you familiar with Java and Kotlin.
 
