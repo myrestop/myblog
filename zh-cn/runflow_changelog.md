@@ -2,6 +2,10 @@
 
 我们将在这里记录RunFlow的更新情况，[下载RunFlow](https://myrest.top/zh-cn/myflow/download)。
 
+### v1.3.1
+
+- 优化 `固定结果` 的作用范围
+
 ### v1.3.0
 
 - 支持固定结果

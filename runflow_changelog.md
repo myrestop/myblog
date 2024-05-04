@@ -2,6 +2,10 @@
 
 We will record the updates of RunFlow here, [downloading RunFlow](https://myrest.top/myflow/download).
 
+### v1.3.1
+
+- optimized the scope of `pin result`
+
 ### v1.3.0
 
 - supports pin result
