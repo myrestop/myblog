@@ -1,6 +1,10 @@
 # 效率工具RunFlow的更新日志
 
-我们将在这里记录RunFlow的更新情况，[下载RunFlow](https://myrest.top/zh-cn/myflow/download)。
+我们将在这里记录RunFlow的更新情况。
+
+> 还不了解RunFlow？[点这里去下载安装](https://myrest.top/zh-cn/myflow/download)，[开始了解](runflow_basic_point.md)。
+
+> 手动检测更新：点击右上角工具栏 `i` 图标或输入 `about` 打开RunFlow关于页，可以看到RunFlow相关的版本信息与运行环境，在页面下方可以看到 `检查更新` 按钮，点击该按钮即可手动检测更新，由于服务器带宽较小，所以下载速度并不快，通常7至8分钟，但是您无需等待它，您继续您的工作即可，完成下载后按钮会变为 `升级`，点击按钮即可完成本次更新。
 
 ### v1.3.2
 
