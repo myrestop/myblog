@@ -2,6 +2,11 @@
 
 我们将在这里记录RunFlow的更新情况，[下载RunFlow](https://myrest.top/zh-cn/myflow/download)。
 
+### v1.3.2
+
+- 局域网传输文件支持发送多个文件
+- 优化静态文件浏览服务的文件顺序
+
 ### v1.3.1
 
 - 优化 `固定结果` 的作用范围

@@ -2,6 +2,11 @@
 
 We will record the updates of RunFlow here, [downloading RunFlow](https://myrest.top/myflow/download).
 
+### v1.3.2
+
+- supports sending multiple files for LAN transmission
+- optimized the file order of static files browsing service
+
 ### v1.3.1
 
 - optimized the scope of `pin result`
