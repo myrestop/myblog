@@ -6,6 +6,13 @@ We will record the updates of RunFlow here.
 
 > Manually check updates: click the `i` icon in the top right corner of the toolbar or input `about` to open the RunFlow About Page. You can see the version and runtime environment. And you can see the `Check Updates` button at the bottom of the page, click this button to manually check updates. Due to the small server bandwidth, the download speed is not fast, it usually takes 7 to 8 minutes, but you don't need to wait for it, you can continue your work, after the download completed, the button will change to `Upgrade`, click the button to complete this update.
 
+### v1.3.3
+
+- optimized tray menu order
+- supports file transfer via LAN in `All` tab
+- optimized LAN transmission: support transferring folders and synchronizing folders for clipboard
+- fixed some known issues
+
 ### v1.3.2
 
 - supports sending multiple files for LAN transmission
