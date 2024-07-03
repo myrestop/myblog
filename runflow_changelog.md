@@ -6,6 +6,10 @@ We will record the updates of RunFlow here.
 
 > Manually check updates: click the `i` icon in the top right corner of the toolbar or input `about` to open the RunFlow About Page. You can see the version and runtime environment. And you can see the `Check Updates` button at the bottom of the page, click this button to manually check updates. Due to the small server bandwidth, the download speed is not fast, it usually takes 7 to 8 minutes, but you don't need to wait for it, you can continue your work, after the download completed, the button will change to `Upgrade`, click the button to complete this update.
 
+### v1.3.6
+
+- fixed the issue about batch rename files which without extension name
+
 ### v1.3.5
 
 - let app exit and restart support hot event
